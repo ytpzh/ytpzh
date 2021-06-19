@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contact@pzh.fr**
 
-- 📄 Know about my experiences [I manage the Xonaria project, a service focused on the creation of virtual robots.](I manage the Xonaria project, a service focused on the creation of virtual robots.)
+- 📄 Know about my experiences **I manage the Xonaria project, a service focused on the creation of virtual robots.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
