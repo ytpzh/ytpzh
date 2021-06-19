@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Xonaria**
 
-- 🌱 I’m currently learning **JavaScript, C++, C#, HTML, CSS, PHP, and more**
+- 🌱 I’m currently learning **JavaScript, C++, HTML, CSS**
 
 - 📫 How to reach me **contact@pzh.fr**
 
