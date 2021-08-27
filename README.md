@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ytpzh" target="blank"><img src="https://img.shields.io/twitter/follow/ytpzh?logo=twitter&style=for-the-badge" alt="ytpzh" /></a> </p>
 
-- 🔭 I’m currently working on: **Xonaria**
+- 🔭 I’m currently working on **Xonaria**
 
-- 🌱 I’m currently learning: **JavaScript, C++, HTML, CSS**
+- 🌱 I’m currently learning **JavaScript, C++, HTML, CSS**
 
 - 📫 How to reach me: **contact@pzh.fr**
 
